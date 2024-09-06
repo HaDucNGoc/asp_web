@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\ASP\\asp_web\\BTVN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{68771649-3C58-4F19-B7EE-7844C57F49B9}|BTVN\\BTVN.csproj|c:\\asp\\asp_web\\btvn\\btvn\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68771649-3C58-4F19-B7EE-7844C57F49B9}|BTVN\\BTVN.csproj|solutionrelative:btvn\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{68771649-3C58-4F19-B7EE-7844C57F49B9}|BTVN\\BTVN.csproj|c:\\asp\\asp_web\\btvn\\btvn\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68771649-3C58-4F19-B7EE-7844C57F49B9}|BTVN\\BTVN.csproj|solutionrelative:btvn\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68771649-3C58-4F19-B7EE-7844C57F49B9}|BTVN\\BTVN.csproj|c:\\asp\\asp_web\\btvn\\btvn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68771649-3C58-4F19-B7EE-7844C57F49B9}|BTVN\\BTVN.csproj|solutionrelative:btvn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68771649-3C58-4F19-B7EE-7844C57F49B9}|BTVN\\BTVN.csproj|c:\\asp\\asp_web\\btvn\\btvn\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68771649-3C58-4F19-B7EE-7844C57F49B9}|BTVN\\BTVN.csproj|solutionrelative:btvn\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68771649-3C58-4F19-B7EE-7844C57F49B9}|BTVN\\BTVN.csproj|c:\\asp\\asp_web\\btvn\\btvn\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\ASP\\asp_web\\BTVN\\BTVN\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BTVN\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\ASP\\asp_web\\BTVN\\BTVN\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BTVN\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:00:57.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\ASP\\asp_web\\BTVN\\BTVN\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BTVN\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\ASP\\asp_web\\BTVN\\BTVN\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BTVN\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T11:00:45.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\ASP\\asp_web\\BTVN\\BTVN\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BTVN\\Controllers\\HomeController.cs",
@@ -43,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ASP\\asp_web\\BTVN\\BTVN\\Program.cs",
               "RelativeDocumentMoniker": "BTVN\\Program.cs",
@@ -55,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ASP\\asp_web\\BTVN\\BTVN\\Views\\TheLoai\\Index.cshtml",
               "RelativeDocumentMoniker": "BTVN\\Views\\TheLoai\\Index.cshtml",
@@ -68,13 +102,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TheLoaiController.cs",
               "DocumentMoniker": "C:\\ASP\\asp_web\\BTVN\\BTVN\\Controllers\\TheLoaiController.cs",
               "RelativeDocumentMoniker": "BTVN\\Controllers\\TheLoaiController.cs",
               "ToolTip": "C:\\ASP\\asp_web\\BTVN\\BTVN\\Controllers\\TheLoaiController.cs",
               "RelativeToolTip": "BTVN\\Controllers\\TheLoaiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T07:08:16.688Z",
               "EditorCaption": ""

@@ -935,19 +935,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP\\Baitap01\\Baitap01\\Baitap01.csproj",
+      "projectUniqueName": "C:\\ASP\\asp_web\\Baitap01\\Baitap01\\Baitap01.csproj",
       "projectName": "Baitap01",
-      "projectPath": "D:\\ASP\\Baitap01\\Baitap01\\Baitap01.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP\\Baitap01\\Baitap01\\obj\\",
+      "projectPath": "C:\\ASP\\asp_web\\Baitap01\\Baitap01\\Baitap01.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\ASP\\asp_web\\Baitap01\\Baitap01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

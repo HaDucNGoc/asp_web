@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP\\asp_web\\baitap02\\baitap02\\baitap02.csproj": {}
+    "C:\\ASP\\asp_web\\baitap02\\baitap02\\baitap02.csproj": {}
   },
   "projects": {
-    "D:\\ASP\\asp_web\\baitap02\\baitap02\\baitap02.csproj": {
+    "C:\\ASP\\asp_web\\baitap02\\baitap02\\baitap02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP\\asp_web\\baitap02\\baitap02\\baitap02.csproj",
+        "projectUniqueName": "C:\\ASP\\asp_web\\baitap02\\baitap02\\baitap02.csproj",
         "projectName": "baitap02",
-        "projectPath": "D:\\ASP\\asp_web\\baitap02\\baitap02\\baitap02.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP\\asp_web\\baitap02\\baitap02\\obj\\",
+        "projectPath": "C:\\ASP\\asp_web\\baitap02\\baitap02\\baitap02.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\ASP\\asp_web\\baitap02\\baitap02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
