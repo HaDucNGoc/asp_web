@@ -2,7 +2,7 @@
 using Baitap05.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BiaTap05.Controllers
+namespace BaiTap05.Controllers
 {
     public class TheLoaiController : Controller
     {
