@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Baitap06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|c:\\users\\dell\\source\\repos\\baitap06\\baitap06\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F16B8CF1-1B96-471F-9396-B39F012502A4}|Baitap06\\Baitap06.csproj|solutionrelative:baitap06\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Baitap06\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Baitap06\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T06:58:24.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Baitap06\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Baitap06\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:44:26.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Baitap06\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Baitap06\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:43:14.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "Baitap06\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "Baitap06\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAAOwBAAAAAAAAAAAmwA4CAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:31:29.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Baitap06\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Baitap06\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:30:27.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Baitap06\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeToolTip": "Baitap06\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T06:19:06.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "Baitap06\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "Baitap06\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:14:03.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiKhoanViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Models\\TaiKhoanViewModel.cs",
+              "RelativeDocumentMoniker": "Baitap06\\Models\\TaiKhoanViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Models\\TaiKhoanViewModel.cs",
+              "RelativeToolTip": "Baitap06\\Models\\TaiKhoanViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:00:53.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Baitap06\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Baitap06\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:43:13.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Baitap06\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Baitap06\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:40:24.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Baitap06\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Baitap06\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:44:19.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Baitap06\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Baitap06\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:34:19.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Baitap06\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Baitap06\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:43:17.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Program.cs",
+              "RelativeDocumentMoniker": "Baitap06\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\Program.cs",
+              "RelativeToolTip": "Baitap06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:37:00.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\.gitignore",
+              "RelativeDocumentMoniker": "Baitap06\\.gitignore",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Baitap06\\Baitap06\\.gitignore",
+              "RelativeToolTip": "Baitap06\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T06:12:12.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

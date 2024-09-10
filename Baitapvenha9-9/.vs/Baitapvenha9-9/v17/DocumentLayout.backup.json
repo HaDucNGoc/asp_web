@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\Baitapvenha9-9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|c:\\users\\dell\\downloads\\baitapvenha9-9\\baitapvenha9-9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|c:\\users\\dell\\downloads\\baitapvenha9-9\\baitapvenha9-9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|c:\\users\\dell\\downloads\\baitapvenha9-9\\baitapvenha9-9\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|c:\\users\\dell\\downloads\\baitapvenha9-9\\baitapvenha9-9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|solutionrelative:baitapvenha9-9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50F03908-440F-47A7-9B90-18F3BF679DA1}|Baitapvenha9-9\\Baitapvenha9-9.csproj|c:\\users\\dell\\downloads\\baitapvenha9-9\\baitapvenha9-9\\controllers\\maytinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,11 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Baitapvenha9-9\\Baitapvenha9-9\\Program.cs",
               "RelativeDocumentMoniker": "Baitapvenha9-9\\Program.cs",
@@ -99,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\Home\\Index.cshtml",
@@ -107,11 +107,12 @@
               "RelativeToolTip": "Baitapvenha9-9\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T16:36:35.502Z"
+              "WhenOpened": "2024-09-07T16:36:35.502Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Tuan02\\Index.cshtml",
               "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\Tuan02\\Index.cshtml",
@@ -119,11 +120,12 @@
               "RelativeToolTip": "Baitapvenha9-9\\Views\\Tuan02\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T16:32:10.988Z"
+              "WhenOpened": "2024-09-07T16:32:10.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MayTinh.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Tuan02\\MayTinh.cshtml",
               "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\Tuan02\\MayTinh.cshtml",
@@ -131,7 +133,8 @@
               "RelativeToolTip": "Baitapvenha9-9\\Views\\Tuan02\\MayTinh.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T16:40:54.403Z"
+              "WhenOpened": "2024-09-08T16:40:54.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -143,11 +146,12 @@
               "RelativeToolTip": "Baitapvenha9-9\\Controllers\\MayTinhController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T16:28:52.158Z"
+              "WhenOpened": "2024-09-08T16:28:52.158Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Baitapvenha9-9\\Baitapvenha9-9\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Baitapvenha9-9\\Models\\ErrorViewModel.cs",
@@ -155,11 +159,12 @@
               "RelativeToolTip": "Baitapvenha9-9\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T17:07:52.708Z"
+              "WhenOpened": "2024-09-07T17:07:52.708Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Baitapvenha9-9\\Baitapvenha9-9\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Baitapvenha9-9\\Controllers\\HomeController.cs",
@@ -180,11 +185,12 @@
               "RelativeToolTip": "Baitapvenha9-9\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T16:20:09.225Z"
+              "WhenOpened": "2024-09-08T16:20:09.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -192,11 +198,12 @@
               "RelativeToolTip": "Baitapvenha9-9\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T16:20:08.432Z"
+              "WhenOpened": "2024-09-08T16:20:08.432Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Baitapvenha9-9\\Baitapvenha9-9\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Baitapvenha9-9\\Views\\Shared\\_Layout.cshtml",
@@ -204,7 +211,8 @@
               "RelativeToolTip": "Baitapvenha9-9\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T16:36:57.6Z"
+              "WhenOpened": "2024-09-07T16:36:57.6Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -216,7 +224,8 @@
               "RelativeToolTip": "Baitapvenha9-9\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T16:24:17.213Z"
+              "WhenOpened": "2024-09-08T16:24:17.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -228,7 +237,8 @@
               "RelativeToolTip": "Baitapvenha9-9\\Controllers\\Tuan02Controller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T16:30:08.216Z"
+              "WhenOpened": "2024-09-07T16:30:08.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -240,7 +250,8 @@
               "RelativeToolTip": "Baitapvenha9-9\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T16:35:31.88Z"
+              "WhenOpened": "2024-09-07T16:35:31.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -252,7 +263,8 @@
               "RelativeToolTip": "Baitapvenha9-9\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T16:46:30.858Z"
+              "WhenOpened": "2024-09-07T16:46:30.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -276,7 +288,8 @@
               "RelativeToolTip": "Baitapvenha9-9\\Views\\Tuan02\\Profile.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T16:40:05.976Z"
+              "WhenOpened": "2024-09-08T16:40:05.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

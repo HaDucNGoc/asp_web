@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gRuiopu0h80=",
+  "dgSpecHash": "DG1YD5y83a8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Downloads\\Baitapvenha9-9\\Baitapvenha9-9\\Baitapvenha9-9.csproj",
+  "projectFilePath": "C:\\ASP\\asp_web\\Baitapvenha9-9\\Baitapvenha9-9\\Baitapvenha9-9.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
