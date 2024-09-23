@@ -89,5 +89,31 @@ namespace BaiTap07a.Controllers
             _db.SaveChanges();
             return RedirectToAction("Index");
         }
+        [HttpGet]
+        public IActionResult Detail(int id)
+        {
+            if (id == 0)
+            {
+                return NotFound();
+            }
+            var theloai = _db.TheLoai.Find(id);
+            return View(theloai);
+        }
+        [HttpGet]
+        public IActionResult Search(string searchString)
+        {
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                var Theloai = _db.TheLoai.Where(tl => tl.Name == searchString).ToList();
+
+                ViewBag.Theloai = Theloai;
+            }
+            else
+            {
+                var Theloai = _db.TheLoai.ToList();
+                ViewBag.Theloai = Theloai;
+            }
+            return View("Index");
+        }
     }
 }
