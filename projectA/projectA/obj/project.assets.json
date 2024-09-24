@@ -8239,11 +8239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ASP\\asp_web\\projectA (1)\\projectA\\projectA.csproj",
+      "projectUniqueName": "C:\\ASP\\asp_web\\projectA\\projectA\\projectA.csproj",
       "projectName": "projectA",
-      "projectPath": "C:\\ASP\\asp_web\\projectA (1)\\projectA\\projectA.csproj",
+      "projectPath": "C:\\ASP\\asp_web\\projectA\\projectA\\projectA.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\ASP\\asp_web\\projectA (1)\\projectA\\obj\\",
+      "outputPath": "C:\\ASP\\asp_web\\projectA\\projectA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
