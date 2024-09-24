@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ASP\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\BaiKiemTra02.csproj": {}
+    "C:\\ASP\\asp_web\\BaiKiemTra02\\BaiKiemTra02 (1)\\BaiKiemTra02.csproj": {}
   },
   "projects": {
-    "C:\\ASP\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\BaiKiemTra02.csproj": {
+    "C:\\ASP\\asp_web\\BaiKiemTra02\\BaiKiemTra02 (1)\\BaiKiemTra02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\BaiKiemTra02.csproj",
+        "projectUniqueName": "C:\\ASP\\asp_web\\BaiKiemTra02\\BaiKiemTra02 (1)\\BaiKiemTra02.csproj",
         "projectName": "BaiKiemTra02",
-        "projectPath": "C:\\ASP\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\BaiKiemTra02.csproj",
+        "projectPath": "C:\\ASP\\asp_web\\BaiKiemTra02\\BaiKiemTra02 (1)\\BaiKiemTra02.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\obj\\",
+        "outputPath": "C:\\ASP\\asp_web\\BaiKiemTra02\\BaiKiemTra02 (1)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

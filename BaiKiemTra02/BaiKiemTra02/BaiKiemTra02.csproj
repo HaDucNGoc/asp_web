@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-BaiKiemTra02-8c8fb60f-0ad3-44e3-8872-f9aead2e97a3</UserSecretsId>
+    <UserSecretsId>aspnet-BaiKiemTra02-7dcc057a-c912-4af3-9350-3452a389f90f</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

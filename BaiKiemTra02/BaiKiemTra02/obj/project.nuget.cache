@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0WzPInPQf1o=",
+  "dgSpecHash": "13dPgGTA/0E=",
   "success": true,
-  "projectFilePath": "C:\\ASP\\asp_web\\BaiKiemTra02\\BaiKiemTra02\\BaiKiemTra02.csproj",
+  "projectFilePath": "C:\\ASP\\asp_web\\BaiKiemTra02\\BaiKiemTra02 (1)\\BaiKiemTra02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
